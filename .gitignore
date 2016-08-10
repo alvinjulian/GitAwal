@@ -13,6 +13,9 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+*.exe
+
+# Ini akan di ignore
 
 # Windows shortcuts
 *.lnk
